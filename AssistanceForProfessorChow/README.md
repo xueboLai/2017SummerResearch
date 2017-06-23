@@ -1,15 +1,17 @@
 <h2><title># 2017SummerResearch</title></h2>
 <h3>This is a python program developed for collecting realtime traffic data to prove the theory in Professor Chow’s paper, “Network learning via multi-agent inverse transportation problems”</h3>
-<hr><hr><hr>
+<hr><
 <p>
 1,The program will randomly pick two directions every five minutes. After picking the directions, we will calculate the travel time of all routes from one direction to another in Queens. The travel times will be stored in regular.csv in output folder. The fastest route (least travel time route) will be saved in the file best.csv.
 <br>
+<br>
+<br>
 For example, if we have two directions (From) East and (to) West. “a, b, c, d” are four points in Queens. a,b are the two locations for East direction and c,d are the two locations for West direction. Then, in the regular.csv, we can have
-
-iter numb	c	d
-a	30	60
+<br><br>
+iter num	c	d<br>
+a	30	60<br>
 b	40	70
-
+<br>
 The table illustrates that from a to c, it takes 30 seconds; from a to d, it takes 60 seconds; from b to c, it take 40 seconds; from b to d it takes 70 seconds.
 Please notice that all the numbers have second as unit.
 <br>
