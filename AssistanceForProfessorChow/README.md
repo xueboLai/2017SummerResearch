@@ -8,9 +8,9 @@
 <br>
 For example, if we have two directions (From) East and (to) West. “a, b, c, d” are four points in Queens. a,b are the two locations for East direction and c,d are the two locations for West direction. Then, in the regular.csv, we can have
 <br><br>
-iter num	&nbsp;c&nbsp&nbsp;d<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspa;&nbsp;&nbsp;&nbsp	30&nbsp;&nbsp;60<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspb;&nbsp;&nbsp;&nbsp	40&nbsp;&nbsp;70
+iter num	&nbsp;c&nbsp&nbsp;&nbsp;d<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a&nbsp;&nbsp;&nbsp	30&nbsp;&nbsp;60<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b&nbsp;&nbsp;&nbsp	40&nbsp;&nbsp;70
 <br>
 The table illustrates that from a to c, it takes 30 seconds; from a to d, it takes 60 seconds; from b to c, it take 40 seconds; from b to d it takes 70 seconds.
 Please notice that all the numbers have second as unit.
