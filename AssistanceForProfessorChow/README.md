@@ -1,4 +1,4 @@
-<h2><title># 2017SummerResearch</title></h2>
+<h2># 2017SummerResearch</h2>
 <h3>This is a python program developed for collecting realtime traffic data to prove the theory in Professor Chow’s paper, “Network learning via multi-agent inverse transportation problems”</h3>
 <hr><
 <p>
