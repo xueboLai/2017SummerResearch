@@ -1,0 +1,6 @@
+1, The screenshot is the route of each iternation from 6:3o am to 9:30 am. Each screenshot is five minutes apart.
+2, The number of each picture is corresponding to the iternation number. 
+3, For certain pictures, there might be underscore. The pictures with 
+underscore are the supplement of an internation. For example, 19_1 means an supplement to picture 19. The supplement pictures
+here often are used for demonstrating the route in a larger scope of the map. (zoom out)
+ 

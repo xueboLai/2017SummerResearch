@@ -1,0 +1,718 @@
+program starts:
+
+This is 0 iteration
+The random numbers for direction generated is 3 and 0
+The first direction is west
+The cordinate are (40.768912,-73.910238) (40.725781,-73.900702)
+The second direction is north
+The cordinate are (40.793551,-73.824226) (40.794014,-73.793346)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.768912,-73.910238|40.725781,-73.900702&destinations=40.793551,-73.824226|40.794014,-73.793346&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Robert_F._Kennedy_Bridge_Astoria_NY_11103_USA
+
+destination_address,Bronx-Whitestone_Bridge_Whitestone_NY_11357_USA
+
+time(in second),463
+
+
+
+
+
+This is 1 iteration
+The random numbers for direction generated is 2 and 1
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+destination_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+time(in second),198
+
+
+
+
+
+This is 2 iteration
+The random numbers for direction generated is 2 and 1
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+destination_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+time(in second),200
+
+
+
+
+
+This is 3 iteration
+The random numbers for direction generated is 1 and 0
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is north
+The cordinate are (40.793551,-73.824226) (40.794014,-73.793346)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.793551,-73.824226|40.794014,-73.793346&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+destination_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+time(in second),666
+
+
+
+
+
+This is 4 iteration
+The random numbers for direction generated is 3 and 1
+The first direction is west
+The cordinate are (40.768912,-73.910238) (40.725781,-73.900702)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.768912,-73.910238|40.725781,-73.900702&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+destination_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+time(in second),674
+
+
+
+
+
+This is 5 iteration
+The random numbers for direction generated is 0 and 2
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),479
+
+
+
+
+
+This is 6 iteration
+The random numbers for direction generated is 0 and 2
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),482
+
+
+
+
+
+This is 7 iteration
+The random numbers for direction generated is 1 and 2
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),239
+
+
+
+
+
+do nothing
+This is 8 iteration
+The random numbers for direction generated is 3 and 1
+The first direction is west
+The cordinate are (40.768912,-73.910238) (40.725781,-73.900702)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.768912,-73.910238|40.725781,-73.900702&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+destination_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+time(in second),787
+
+
+
+
+
+This is 9 iteration
+The random numbers for direction generated is 2 and 3
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Van_Wyck_Expy_Kew_Gardens_NY_11415_USA
+
+destination_address,Robert_F._Kennedy_Bridge_Astoria_NY_11105_USA
+
+time(in second),940
+
+
+
+
+
+This is 10 iteration
+The random numbers for direction generated is 2 and 3
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Van_Wyck_Expy_Kew_Gardens_NY_11415_USA
+
+destination_address,Robert_F._Kennedy_Bridge_Astoria_NY_11105_USA
+
+time(in second),999
+
+
+
+
+
+This is 11 iteration
+The random numbers for direction generated is 1 and 3
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+destination_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+time(in second),2227
+
+
+
+
+
+This is 12 iteration
+The random numbers for direction generated is 0 and 2
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Bronx-Whitestone_Bridge_Whitestone_NY_11357_USA
+
+destination_address,Van_Wyck_Expy_Kew_Gardens_NY_11415_USA
+
+time(in second),635
+
+
+
+
+
+This is 13 iteration
+The random numbers for direction generated is 1 and 3
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+destination_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+time(in second),2200
+
+
+
+
+
+This is 14 iteration
+The random numbers for direction generated is 2 and 0
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is north
+The cordinate are (40.793551,-73.824226) (40.794014,-73.793346)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.793551,-73.824226|40.794014,-73.793346&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+destination_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+time(in second),1063
+
+
+
+
+
+This is 15 iteration
+The random numbers for direction generated is 1 and 3
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+destination_address,Robert_F._Kennedy_Bridge_Astoria_NY_11105_USA
+
+time(in second),2096
+
+
+
+
+
+This is 16 iteration
+The random numbers for direction generated is 1 and 3
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+destination_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+time(in second),2085
+
+
+
+
+
+This is 17 iteration
+The random numbers for direction generated is 0 and 3
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Bronx-Whitestone_Bridge_Whitestone_NY_11357_USA
+
+destination_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+time(in second),1315
+
+
+
+
+
+This is 18 iteration
+The random numbers for direction generated is 3 and 1
+The first direction is west
+The cordinate are (40.768912,-73.910238) (40.725781,-73.900702)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.768912,-73.910238|40.725781,-73.900702&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+destination_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+time(in second),1534
+
+
+
+
+
+This is 19 iteration
+The random numbers for direction generated is 1 and 2
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),202
+
+
+
+
+
+This is 20 iteration
+The random numbers for direction generated is 0 and 3
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Bronx-Whitestone_Bridge_Whitestone_NY_11357_USA
+
+destination_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+time(in second),1273
+
+
+
+
+
+This is 21 iteration
+The random numbers for direction generated is 2 and 1
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+destination_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+time(in second),355
+
+
+
+
+
+This is 22 iteration
+The random numbers for direction generated is 3 and 1
+The first direction is west
+The cordinate are (40.768912,-73.910238) (40.725781,-73.900702)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.768912,-73.910238|40.725781,-73.900702&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+destination_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+time(in second),1737
+
+
+
+
+
+This is 23 iteration
+The random numbers for direction generated is 0 and 1
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+destination_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+time(in second),716
+
+
+
+
+
+This is 24 iteration
+The random numbers for direction generated is 0 and 2
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),812
+
+
+
+
+
+This is 25 iteration
+The random numbers for direction generated is 1 and 3
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+destination_address,Robert_F._Kennedy_Bridge_Astoria_NY_11105_USA
+
+time(in second),1602
+
+
+
+
+
+This is 26 iteration
+The random numbers for direction generated is 1 and 0
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is north
+The cordinate are (40.793551,-73.824226) (40.794014,-73.793346)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.793551,-73.824226|40.794014,-73.793346&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+destination_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+time(in second),349
+
+
+
+
+
+This is 27 iteration
+The random numbers for direction generated is 1 and 2
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),205
+
+
+
+
+
+This is 28 iteration
+The random numbers for direction generated is 3 and 2
+The first direction is west
+The cordinate are (40.768912,-73.910238) (40.725781,-73.900702)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.768912,-73.910238|40.725781,-73.900702&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+destination_address,Van_Wyck_Expy_Kew_Gardens_NY_11415_USA
+
+time(in second),759
+
+
+
+
+
+This is 29 iteration
+The random numbers for direction generated is 2 and 0
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is north
+The cordinate are (40.793551,-73.824226) (40.794014,-73.793346)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.793551,-73.824226|40.794014,-73.793346&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+destination_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+time(in second),560
+
+
+
+
+
+This is 30 iteration
+The random numbers for direction generated is 1 and 2
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),197
+
+
+
+
+
+This is 31 iteration
+The random numbers for direction generated is 2 and 3
+The first direction is south
+The cordinate are (40.709607,-73.820145) (40.719537,-73.726204)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.709607,-73.820145|40.719537,-73.726204&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Van_Wyck_Expy_Kew_Gardens_NY_11415_USA
+
+destination_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+time(in second),1040
+
+
+
+
+
+This is 32 iteration
+The random numbers for direction generated is 0 and 2
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is south
+The cordinate are (40.709601,-73.82042) (40.719579,-73.726351)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.709601,-73.82042|40.719579,-73.726351&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+destination_address,Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+
+time(in second),596
+
+
+
+
+
+This is 33 iteration
+The random numbers for direction generated is 0 and 3
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Bronx-Whitestone_Bridge_Whitestone_NY_11357_USA
+
+destination_address,Robert_F._Kennedy_Bridge_Astoria_NY_11105_USA
+
+time(in second),966
+
+
+
+
+
+This is 34 iteration
+The random numbers for direction generated is 1 and 3
+The first direction is east
+The cordinate are (40.760452,-73.732523) (40.752295,-73.725982)
+The second direction is west
+The cordinate are (40.769205,-73.910147) (40.725919,-73.900669)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.760452,-73.732523|40.752295,-73.725982&destinations=40.769205,-73.910147|40.725919,-73.900669&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+destination_address,Queens_Midtown_Expy_Maspeth_NY_11378_USA
+
+time(in second),1347
+
+
+
+
+
+This is 35 iteration
+The random numbers for direction generated is 0 and 1
+The first direction is north
+The cordinate are (40.793164,-73.824123) (40.793994,-73.793477)
+The second direction is east
+The cordinate are (40.760346,-73.732429) (40.752161,-73.725848)
+start url:
+The url is: https://maps.googleapis.com/maps/api/distancematrix/json?origins=40.793164,-73.824123|40.793994,-73.793477&destinations=40.760346,-73.732429|40.752161,-73.725848&mode=driving&departure_time=now&language=en&key=AIzaSyDyZhD_n3gX8tMOOj4_Mk6kZ1eJ8MURgv8
+
+best run
+original_address,Throgs_Neck_Bridge_Queens_NY_USA
+
+destination_address,Long_Island_Expy_Little_Neck_NY_11362_USA
+
+time(in second),385

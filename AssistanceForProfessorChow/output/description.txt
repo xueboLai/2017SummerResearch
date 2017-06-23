@@ -1,0 +1,15 @@
+1,The program will randomly pick two directions every five minutes. After picking the directions,the times of all the
+routes from one direction to another will be calculated and store in the file regular.csv. The fastest route (time) will
+be saved in the file best.csv.
+2, Every time there would be 2 sets of geocoordinates for each direction (from one direction to another) being input 
+to the program and the result of the time between them will be generated and stored in regular.csv.
+For example, if we have two direction (From) East and (to) West. And a,b are the two locations for East direction and
+c,d are the two locations for West direction. Then, in the regular.csv, we have
+
+
+iter numb	c	d
+	a	30	60
+	b	40	70
+
+Please notice that all the numbers have second as unit.
+3, The log_file_saved is the file created to store all the intermediate value the program got for debugging purpose.

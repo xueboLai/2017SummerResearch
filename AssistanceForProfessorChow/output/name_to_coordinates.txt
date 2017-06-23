@@ -1,0 +1,54 @@
+North:
+Bronx-Whitestone_Bridge_Whitestone_NY_11357_USA
+start: 
+40.793164, -73.824123
+end: 
+40.793551, -73.824226
+
+Throgs_Neck_Bridge_Queens_NY_USA
+start:
+40.793994, -73.793477
+end:
+40.794014, -73.793346
+
+
+East:
+Long_Island_Expy_Little_Neck_NY_11362_USA
+start:
+40.760452, -73.732523
+end:
+40.760346, -73.732429
+
+249-05_Grand_Central_Pkwy_Flushing_NY_11362_USA
+start:
+40.752295, -73.725982
+end:
+40.752161, -73.725848
+
+
+South:
+Van_Wyck_Expy_Kew_Gardens_NY_11415_USA
+start:
+40.709607, -73.820145
+end:
+40.709601, -73.820420
+
+Cross_Island_Pkwy_Floral_Park_NY_11001_USA
+start:
+40.719537, -73.726204
+end:
+40.719579, -73.726351
+
+
+West:
+Robert_F._Kennedy_Bridge_Astoria_NY_11105_USA
+start:
+40.768912, -73.910238
+end:
+40.769205, -73.910147
+
+Queens_Midtown_Expy_Maspeth_NY_11378_USA
+start:
+40.725781, -73.900702
+end:
+40.725919, -73.900669
